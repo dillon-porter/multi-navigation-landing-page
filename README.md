@@ -2,6 +2,10 @@
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
 
+[Challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5)
+Demo()
+
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
