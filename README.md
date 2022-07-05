@@ -5,7 +5,7 @@
 - [Challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5)
 - [Demo](https://dillon-porter.github.io/multi-navigation-landing-page/)
 
--- Currently bugged! Switch to mobile review first to allow the dropdown menus to work.
+-- Currently bugged! Switch to mobile view first to allow the dropdown menus to work.
 
 ## Welcome! 👋
 
